@@ -1,8 +1,10 @@
-logo: /images/logo2.png
+logo: /images/stopscams_logo.png
 links:
-  - title: I Need Help
-    collection: i-need-help
-  - title: Just Browsing
-    collection: just-browsing
-  - title: Latest news
-    url: /latest-news/permalink
+  - title: I've been scammed
+    collection: i-have-been-scammed
+  - title: I Want Protection from Scams
+    collection: i-want-protection-from-scams
+  - title: Latest Scam News
+    collection: latest-scam-news
+  - title: Government Initiatives
+    collection: government-initiatives
