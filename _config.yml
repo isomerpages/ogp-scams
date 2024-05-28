@@ -1,6 +1,6 @@
 title: scams.gov.sg
 url: https://scams.gov.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/favicon.png
 colors:
   primary-color: "#005dea"
   secondary-color: "#005dea"
@@ -52,8 +52,8 @@ plugins:
 staging: https://staging.d3marpr8819iq.amplifyapp.com
 prod: https://master.d3marpr8819iq.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/isomer-logo.svg
+shareicon: /images/Logo.png
 is_government: true
 google_analytics_ga4: ""
 linkedin-insights: ""
-resources_name: weekly-scam-bulletin
+resources_name: trends-and-updates
