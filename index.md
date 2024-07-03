@@ -8,8 +8,8 @@ notification: ––––– THIS IS A STAGING WEBSITE FOR TESTING PURPOSES. Ex
   site? Give us feedback at go.gov.sg/scam-info –––––
 sections:
   - hero:
-      background: /images/Hero_banner_no_text.png
-      variant: center
+      background: /images/Hero_Option_1.png
+      variant: image
       key_highlights:
         - title: Get help if you have been scammed
           description: ""
@@ -23,7 +23,6 @@ sections:
         - title: Protect yourself against scams
           description: ""
           url: /introduction-to-scams/
-      title: Helping you navigate scams with confidence
   - textcards:
       title: Trending Scams
       subtitle: June 2024
