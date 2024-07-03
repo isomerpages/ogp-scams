@@ -58,7 +58,7 @@ sections:
       button: Learn more
       url: https://www.scamshield.org.sg/android-app/
       alt: Image alt text
-      image: /images/ScamShield_app.png
+      image: /images/ScamShield.png
   - infopic:
       title: 1 in 5 Singaporeans has fallen for a scam
       subtitle: Did you know?
