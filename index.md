@@ -24,7 +24,7 @@ sections:
           description: ""
           url: /introduction-to-scams/
   - textcards:
-      title: Trending Scams
+      title: Trending scams
       subtitle: June 2024
       id: textcards
       cards:
