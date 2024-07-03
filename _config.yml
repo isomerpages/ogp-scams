@@ -6,15 +6,15 @@ colors:
   secondary-color: "#005dea"
   media-colors:
     - title: media-color-one
-      color: "#f8572b"
+      color: "#040033"
     - title: media-color-two
-      color: "#00b775"
+      color: "#230247"
     - title: media-color-three
-      color: "#ef82eb"
+      color: "#5a0024"
     - title: media-color-four
-      color: "#780ae9"
+      color: "#f4c829"
     - title: media-color-five
-      color: "#ffc803"
+      color: "#024325"
 description: Government directory for scam-related information
 permalink: none
 baseurl: ""
