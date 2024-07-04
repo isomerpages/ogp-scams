@@ -4,10 +4,11 @@ title: ScamShield.gov.sg
 description: Government directory for scam-related information
 image: /images/Logo.png
 permalink: /
-notification: ""
+notification: ––––– THIS IS A STAGING WEBSITE FOR TESTING PURPOSES. Explored the
+  site? Give us feedback at go.gov.sg/scam-info –––––
 sections:
   - hero:
-      background: /images/Hero_Staging.png
+      background: /images/Hero_Option_2.png
       variant: center
       key_highlights:
         - title: Get help if you have been scammed
