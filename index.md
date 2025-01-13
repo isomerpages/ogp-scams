@@ -48,7 +48,16 @@ sections:
       title: CALL 1799
       subtitle: unsure if something is a scam?
       id: infobar
-      description: Call the helpline if you are in a situation you think could be a scam
+      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+        web-share" frameborder="0" title="YouTube video player"
+        src="https://www.youtube.com/embed/bIAo--B3V3A?si=HbSi2zskpEC_07oR"
+        height="360" width="640"></iframe>  <iframe allowfullscreen=""
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+        gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube
+        video player"
+        src="https://www.youtube.com/embed/bIAo--B3V3A?si=HbSi2zskpEC_07oR"
+        height="360" width="640"></iframe>
       button: or check using the scamshield app
       url: www.scamshield.gov.sg
   - infopic:
