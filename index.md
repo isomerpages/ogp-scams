@@ -7,7 +7,7 @@ permalink: /
 notification: testing <a href="https://www.example.com">Click here to visit Example</a>
 sections:
   - hero:
-      background: /images/Hero_Option_2.png
+      background: /images/GOIS_Website_banner.jpg
       variant: center
       key_highlights:
         - title: Get help if you have been scammed
